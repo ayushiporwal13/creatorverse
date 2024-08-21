@@ -1,10 +1,10 @@
-# WEB103 Prework - *👉🏿 Creatoverse*
+# WEB103 Prework - *Creatoverse*
 
-Submitted by: **👉🏿 Ayushi Porwal**
+Submitted by: **Ayushi Porwal**
 
-About this web app: **👉🏿The "Creatorverse" website is a React-based project designed to manage and showcase your favorite content creators. It allows users to create, read, update, and delete profiles of content creators such as YouTubers, Twitch streamers, and Instagram personalities. Each profile includes the creator's name, a link to their channel, a description, and optionally, an image. **
+About this web app: **The "Creatorverse" website is a React-based project designed to manage and showcase your favorite content creators. It allows users to create, read, update, and delete profiles of content creators such as YouTubers, Twitch streamers, and Instagram personalities. Each profile includes the creator's name, a link to their channel, a description, and optionally, an image. **
 
-Time spent: **👉🏿 28** hours
+Time spent: **28** hours
 
 ## Required Features
 
@@ -23,7 +23,6 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Picocss is used to style HTML elements
 - [x] The content creator items are displayed in a creative format, like cards instead of a list
 - [x] An image of each content creator is shown on their content creator card
 
@@ -37,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿[Video Walkthrough](https://i.imgur.com/Glyb18Y.gifv)
+[Video Walkthrough](https://i.imgur.com/Glyb18Y.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [CloudConvert](https://cloudconvert.com/mp4-to-gif)  
@@ -52,7 +51,7 @@ Describe any challenges encountered while building the app or any additional con
 
 ## License
 
-Copyright [👉🏿 2024] [👉🏿 Ayushi Porwal]
+Copyright [2024] [Ayushi Porwal]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
